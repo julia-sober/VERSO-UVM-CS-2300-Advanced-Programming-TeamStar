@@ -14,7 +14,7 @@ public class rgb_to_hex {
         return String.format("%02X%02X%02X", r, g, b);
     }
 }
-
+// JULIA
 //Test with RGB color (255, 127, 0) = FF7F00
 
 
